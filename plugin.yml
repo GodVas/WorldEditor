@@ -1,0 +1,10 @@
+name: WorldEditor
+main: skh6075\worldeditor\WorldEditor
+author: AvasKr
+version: 1.0.0
+api: 3.10.0
+website: https://github.com/GodVas
+
+permissions:
+  worldeditor.permission:
+    default: op

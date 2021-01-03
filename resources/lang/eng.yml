@@ -1,0 +1,6 @@
+prefix: "§l§b[WEditor]§r§7 "
+
+worldeditor.setpos.success: "%pos% selected."
+worldeditor.setpos.failed: "%pos% cannot be selected (reason: Worlds are different)"
+
+fill.editor.success: "%changedcount% blocks successfully filled. (time: %record%sec)"

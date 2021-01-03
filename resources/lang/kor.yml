@@ -1,0 +1,6 @@
+prefix: "§l§b[알림]§r§7 "
+
+worldeditor.setpos.success: "%pos%번 모서리를 선택하였습니다."
+worldeditor.setpos.failed: "%pos%번 모서리를 선택할 수 없습니다. (사유: 월드가 다름)"
+
+fill.editor.success: "성공적으로 %changedcount%개 블럭을 채웠습니다. (걸린 시간: %record%초)"
